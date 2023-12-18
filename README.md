@@ -1,9 +1,7 @@
 👑Hi, this is Aaryan Paiva
 
-  My repositories contain all my projects that i have completed/ working on.
+  My repositories contain all my projects that I have completed/ working on.
     Give them a look, I would reaaly appreciate it!
-
-💯My only rule with all projetcs: NO CHAT GPT!!
 
 🧠My interests lie in solving problems by crafting solutions that utilise logic and common sense.
 
